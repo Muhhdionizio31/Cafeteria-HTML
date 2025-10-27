@@ -72,3 +72,38 @@ section{
     font-size: 1.3rem;
 
 }
+
+.icons img {
+
+    margin: 1rem;
+    cursor: pointer;
+
+}
+
+.icons img:hover {
+
+    width: 40px;
+    height: 40px;
+
+}
+
+.btn {
+
+    background: var(--main-color);
+    color: #fff;
+    padding: 1rem 3rem;
+    font-size: 1.7rem;
+    cursor: pointer;
+    margin-top: 1rem;
+
+}
+
+.home-container {
+
+    background: url("img/home-img.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+
+}
+
